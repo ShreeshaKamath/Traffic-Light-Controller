@@ -1,0 +1,11 @@
+# Icarus Verilog build output
+*.out
+*.vvp
+
+# Keep the sample waveform, but ignore ones you regenerate locally
+*.vcd
+!waveforms/traffic_controller.vcd
+
+# OS files
+.DS_Store
+Thumbs.db
