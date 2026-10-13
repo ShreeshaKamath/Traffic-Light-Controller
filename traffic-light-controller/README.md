@@ -62,12 +62,4 @@ actual clock frequency, e.g. 50,000,000 for a 50 MHz clock).
 | `1010` | Emergency — Road 3 |
 | `1011` | Emergency — Road 4 |
 
-## Simulation Results
 
-### GTKWave Timing Waveform
-
-![Traffic Light Controller Waveform](docs/waveform.jpeg)
-
-### Simulation Output
-
-![Simulation Test Results](docs/simulation-output.jpeg)
